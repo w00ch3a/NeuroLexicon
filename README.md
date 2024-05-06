@@ -23,10 +23,7 @@ torchtext for additional text processing tools specific to PyTorch
 
 You can install these with the following pip commands:
 
-pip install pandas
-pip install nltk
-pip install torch
-pip install torchtext
+pip install pandas nltk torch torchtext
 
 Prepare Your Data: Place your text data in the txt directory specified in the script.
 Run the Script: Execute the script via the command line to process your data and train the RNN.
